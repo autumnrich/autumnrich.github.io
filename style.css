@@ -2,17 +2,3 @@ body{
   background-color: hsl(0, 5%, 92%);
   font-family: 'Lato', sans-serif;
 }
-h1, p {
-  color: hsl(261,72%,35%);
-  padding: 20px;
-  border: 1px solid gray;
-  margin: 10px;
-}
-#title {
-  font-size: 60px;
-  font-family: 'Pacifico', cursive;
-}
-.red-italic {
-  font-style: italic;
-  color: red;
-}
