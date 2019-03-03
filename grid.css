@@ -1,0 +1,22 @@
+.row {
+  width: 100%;
+}
+.column {
+  float: left;
+}
+.column-20 {
+  width: 20%;
+  background-color: orange;
+}
+.column-50 {
+  width: 50%;
+  background-color: pink;
+}
+.column-80 {
+  background-color: green;
+  width: 80%
+}
+.column-100 {
+  background-color: yellow;
+  width: 100%
+}
